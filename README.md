@@ -1,4 +1,4 @@
-# BestPhone
+# PhoneInfo
 This is a sample android app written in kotlin and created using the recommendations described in https://developer.android.com/jetpack/docs/guide.
 
 It showcases some of the components of Android Jetpack (ViewModel, LiveData), it uses Dagger for dependency injection and retrofit for networking.
